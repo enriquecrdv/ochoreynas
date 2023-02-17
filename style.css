@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  td {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .white {
+    background-color: #f0d9b5;
+  }
+  
+  .black {
+    background-color: #b58863;
+  }
+  
+  .queen {
+    background-image: url('queen.png');
+    background-size: 60px 60px;
+  }
